@@ -8,6 +8,7 @@
 - [Additional Documentation](#additional-documentation)
 - [License](#license)
 - [Issues and Improvements](#issues-and-improvements)
+- [Known Bugs](#known-bugs)
 - [Contribution](#contribution)
 
 ## Overview
@@ -71,6 +72,11 @@ See the LICENSE file for more details.
 
 ## Issues and Improvements
 If you find an issue or would like to submit an improvement to this project, please use the issues tab above to submit an issue.
+
+## Known Bugs
+After about 30-60 minutes of runtime, the code will timeout and stop running.
+
+You can see this happen in my latest live stream test for this code: https://www.youtube.com/watch?v=qGGrQaWRiuM
 
 ## Contribution
 Thank you for visiting this repository! Contributions are optional but always appreciated. You can help by finding bugs, suggesting improvements, opening issues, submitting pull requests, or starring the repository. Donations are also welcome to support the project. Your involvement means a lot—thank you!
