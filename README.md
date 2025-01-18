@@ -43,7 +43,7 @@ https://modrinth.com/mod/minescript
 ## Usage
 1. Make sure you put the script (chat.py) in the correct folder. Minescript will generate a folder once it is ran once with the mod installed. You will then place the scripts in the new minescript folder
 
-2. You will need to run the script through Minecraft using Minescript. To run any script you will have to do a Backslash (**\**), then write the name of the script, excluding the file extension (.**py**)
+2. You will need to run the script through Minecraft using Minescript. To run any script you will have to do a Backslash (\), then write the name of the script, excluding the file extension (.**py**)
 
 This is what the command should look like to run the chat.py script in Minecraft
 
