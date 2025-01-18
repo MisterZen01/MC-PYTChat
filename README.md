@@ -33,7 +33,7 @@ Before you begin, ensure you have the following installed:
 
 `video_id = "your_video_id_here"`
 
-- **Note**: Your video ID is found in the URL: www.youtube.com/live/**WRb7TC2k1cQ**
+- **Note**: Your video ID is found in the URL: youtube.com/live/**WRb7TC2k1cQ**
 
 3. Download and install Minescript in your Minecraft modpack
 
