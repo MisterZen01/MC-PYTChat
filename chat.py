@@ -24,7 +24,7 @@ def fetch_youtube_chat(video_id):
         minescript.echo(f"An error occurred: {e}")
 
 def main():
-    video_id = "qGGrQaWRiuM"  # Replace with your YouTube live video ID
+    video_id = "your_video_id_here"  # Replace with your YouTube live video ID
     fetch_youtube_chat(video_id)
     minescript.echo("Finished fetching chat.")
 
