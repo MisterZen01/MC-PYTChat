@@ -70,6 +70,7 @@ If you found an issue or would like to submit an improvement to this project, pl
 Thank you for visiting this repository! Contributions are optional but always appreciated. You can help by finding bugs, suggesting improvements, opening issues, submitting pull requests, or starring the repository. Donations are also welcome to support the project. Your involvement means a lot—thank you!
 
 **Ways to support projects like this by donating:**
+
 Become a YouTube Member for $0.99
 Donate through YouTube Super Chat
 https://cash.app/$MisterZen01
