@@ -33,7 +33,7 @@ Before you begin, ensure you have the following installed:
 
 `video_id = "your_video_id_here"`
 
-Note: Your video ID is found in the URL: www.youtube.com/live/**WRb7TC2k1cQ**
+- **Note**: Your video ID is found in the URL: www.youtube.com/live/**WRb7TC2k1cQ**
 
 3. Download and install Minescript in your Minecraft modpack
 
@@ -61,10 +61,10 @@ Minescript: https://minescript.net/docs/
 https://www.youtube.com/watch?v=EorgBTJj_mc
 
 ## License
-See the LICENSE file for more details.
+This project is licensed under the Creative Commons Attribution 4.0 International License. See the LICENSE file for more details.
 
 ## Issues and Improvements
-If you found an issue or would like to submit an improvement to this project, please submit an issue using the issues tab above.
+If you find an issue or would like to submit an improvement to this project, please use the issues tab above to submit an issue.
 
 ## Contribution
 Thank you for visiting this repository! Contributions are optional but always appreciated. You can help by finding bugs, suggesting improvements, opening issues, submitting pull requests, or starring the repository. Donations are also welcome to support the project. Your involvement means a lot—thank you!
