@@ -72,7 +72,9 @@ Thank you for visiting this repository! Contributions are optional but always ap
 **Ways to support projects like this by donating:**
 
 Become a YouTube Member for $0.99
+
 Donate through YouTube Super Chat
+
 https://cash.app/$MisterZen01
 
 # Thank you for using Chat.py!
