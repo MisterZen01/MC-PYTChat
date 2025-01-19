@@ -1,5 +1,5 @@
 
-# Chat.py: YouTube Chat in Minecraft
+# YouTube Chat in Minecraft
 ### Table of Contents
 - [Overview](#overview)
 - [Features](#features)
@@ -45,7 +45,7 @@ https://modrinth.com/mod/minescript
 
 2. Download and place the `chat.py` script in the newly generated `minescript` folder.
 
-3. Start Minecraft, open the chat window, and type the following command to run the script: `/chat`
+3. Start Minecraft, open the chat window, and type the following command to run the script: `\chat`
 
 4. It should then say **"Starting YouTube Chat..."** and you'll be able to start seeing YouTube live chat messages in Minecraft.
 
